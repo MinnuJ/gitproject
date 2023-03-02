@@ -1,0 +1,19 @@
+1.	Start.
+2.	Declare variables A, B and C.
+3.	Read the variables.
+4.	If A greater than or equal to B and A greater than or equal to C
+5.	    If B greater than or equal to C
+6.	         Declare second largest is B
+7.	    Else 
+8.	         Declare second largest is C
+9.	Else if B greater than or equal to A and B greater than or equal to C
+10.	    If A greater than or equal to C
+11.	         Declare second largest is A
+12.	    Else 
+13.	         Declare second largest is C
+14.	Else if C greater than or equal to A and C greater than or equal to B
+15.	    If A greater than or equal to B
+16.	         Declare second largest is A
+17.	    Else 
+18.	         Declare second largest is B
+19.	Stop.
